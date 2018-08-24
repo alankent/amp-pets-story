@@ -12,8 +12,8 @@ Instructions for the tutoral based on this glitch can be found at [The AMP Proje
 assets/
  └──  images, video, audio for story
 bookend.json
-pets-completed.html   --- Completed version
-pets.html             --- Incomplete version
+pets.html             --- Incomplete version for you to complete
+pets-completed.html   --- Completed version (cheat sheet!)
 README.md             --- The file you are reading
 ```
 
